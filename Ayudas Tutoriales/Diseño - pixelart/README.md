@@ -1,0 +1,8 @@
+[30ExcellentTutorial](http://www.hongkiat.com/blog/pixel-art-tutorials/ "30 Excellent Pixel Art Tutorials")
+[Aseprite](http://www.aseprite.org/ "Aseprite")
+[Gamasutra](http://www.gamasutra.com/blogs/ChrisHildenbrand/20111015/8669/2D_Game_Art_For_Programmers__Part_1_updated.php "Gamasutra")
+[Introduction to Pixel Art](http://www.raywenderlich.com/14865/introduction-to-pixel-art-for-games "Introduction to Pixel Art")
+[Isometric](http://gas13.ru/v3/tutorials/isometric_pixelart_tutorial_setup_photoshop_for_pixelart.php "Isometric Pixel Art")
+[aa](http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial "Make Games")
+[bb](http://www.taringa.net/posts/offtopic/2433726/Pixel-Art-Tutorial-Espanol.html "Tutorial Pixel Art Español Ü")
+[mediavida](http://www.mediavida.com/foro/gamedev/pixelart-el-mundo-del-pixel-446138 "Pixel Art Mediavida In Jastro We Trust")
